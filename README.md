@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gaurav07-droid
 - 👀 I’m interested in full stack web development
-- 🌱 I’m currently learning nodejs 
+- 🌱 I’m currently learning nodejs,express,Mongo db 
 - 💞️ I’m looking to collaborate on 
 - - 📫 How to reach me ...
 
