@@ -2,7 +2,7 @@
 - 👀 I’m interested in full stack web development
 - 🌱 I’m currently learning nodejs,express,Mongo db 
 - 💞️ I’m looking to collaborate on 
-- - 📫 How to reach me ...
+- - 📫 How to reach me ...itsgaurav026@gmail.com
 
 <!---
 Gaurav07-droid/Gaurav07-droid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
