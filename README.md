@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gaurav bhardwaj
 - 👀 I’m interested in full stack web development
-- 🌱 I completed learning javascript,nodejs,express,Mongo db now making diffrerents projects based on my new skills
+- 🌱 I completed learning javascript,nodejs,express,Mongo db now making diffrerent projects based on my new skills
 - 💞️ I’m looking to collaborate on 
 - - 📫 How to reach me ...dev.gaurav026@gmail.com
 
