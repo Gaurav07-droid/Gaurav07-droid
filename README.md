@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gaurav bhardwaj
-- 👀 I’m interested in full stack web development
+- 👀 I’m interested in full stack development
 - 🌱 I am nodeJS freak
 - 💞️ I’m looking to collaborate on 
 - - 📫 How to reach me ...dev.gaurav026@gmail.com
